@@ -13,7 +13,9 @@ I am passionate about programming, cybersecurity, graphic design (beginner graph
 My goal ? To become a network infrastructure engineer and work in cybersecurity.
 
 * 🌍  I'm based in France at Poitiers, Limoges
-* 🚀  I'm currently working on [an AI-Agent, Expert in Programmation](https://ai-agent-8us3.onrender.com/)
+* 🚀  I'm currently working on [two AI-Agent, Expert in Programmation](https://ai-agent-8us3.onrender.com/)
+          The other AI I made is currently in progress, it's an AI Agent powered by 4 LLM's ( Claude 4, Gemini 2.5 PRO, Chat-GPT5 and Replit Agent ) and i will integreted some other LLM's like
+          Mistral and if I have the money DeepSeek.
 * 🧠  I'm currently learning Javascript, Rust, C, Super Intelligence and Cybersecurity
 
 <p align="left">
