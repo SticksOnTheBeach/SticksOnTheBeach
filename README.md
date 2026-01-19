@@ -9,7 +9,8 @@
 <h1 align="center">
           Hi ! My name is Maël
 </h1>
-============================================================================================================================
+---
+==============================================================================================================
 
 # 💫 About Me:
 I have been teaching myself coding and programming for almost five years now. I'm currently studying Machine Learning<br><br>I have learned various programming languages such as TypeScript, XAML, Python, CSS, and many others.<br><br>I am passionate about programming, cybersecurity, graphic design (beginner graphic designer), and photography.<br><br>My goal ? To become a network infrastructure engineer and work in cybersecurity.<br><br> 🌍  I'm based in France at Poitiers, Limoges
