@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm0yZ2pkdnBrZml6d2JqYW0wM2l6dGNobXFpdHBrNWdsdGY1aDl6dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YHuagaDtPQ3wtRhrm1/giphy.gif"
-</p>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
@@ -55,3 +53,10 @@ I have been teaching myself coding and programming for almost five years now. I'
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## THE END
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm0yZ2pkdnBrZml6d2JqYW0wM2l6dGNobXFpdHBrNWdsdGY1aDl6dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YHuagaDtPQ3wtRhrm1/giphy.gif"
+</p>
