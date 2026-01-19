@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 # 💫 About Me:
-I have been teaching myself coding and programming for almost five years now.<br><br>I have learned various programming languages such as TypeScript, XAML, Python, CSS, and many others.<br><br>I am passionate about programming, cybersecurity, graphic design (beginner graphic designer), and photography.<br><br>My goal ? To become a network infrastructure engineer and work in cybersecurity.<br><br> 🌍  I'm based in France at Poitiers, Limoges
+I have been teaching myself coding and programming for almost five years now. I'm currently studying Machine Learning<br><br>I have learned various programming languages such as TypeScript, XAML, Python, CSS, and many others.<br><br>I am passionate about programming, cybersecurity, graphic design (beginner graphic designer), and photography.<br><br>My goal ? To become a network infrastructure engineer and work in cybersecurity.<br><br> 🌍  I'm based in France at Poitiers, Limoges
 * 🚀  I'm currently working on [two AI-Agent, Expert in Programmation](https://ai-agent-8us3.onrender.com/)
           The other AI I made is currently in progress ( **60%**), it's an AI Agent powered by 4 LLM's ( Claude 4, Gemini 2.5 PRO, Chat-GPT5 and Replit Agent ) and i will integreted some other LLM's like
           Mistral and if I have the money DeepSeek. It will be an Giant AI who can also improving himself, and improving his code.
