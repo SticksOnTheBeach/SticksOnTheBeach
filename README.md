@@ -1,3 +1,10 @@
+
+# 👋 Bienvenue
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=435&lines=Bienvenue+sur+mon+profil+!;Welcome+to+my+profile+!" alt="Typing SVG" />
+</div>
+
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm0yZ2pkdnBrZml6d2JqYW0wM2l6dGNobXFpdHBrNWdsdGY1aDl6dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YHuagaDtPQ3wtRhrm1/giphy.gif"
 </p>
