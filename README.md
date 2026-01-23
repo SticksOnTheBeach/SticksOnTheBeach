@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-          Hi ! My name is Maël
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=D2730C&center=true&vCenter=true&width=435&lines=My+Name+Is+Ma%C3%ABl" alt="Typing SVG" /></a>
 </h1>
 ---
 
