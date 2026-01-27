@@ -40,9 +40,9 @@ I have been teaching myself coding and programming for almost five years now. I'
 
 
 # 📊 GitHub Stats:
-<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=SticksOnTheBeach&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SticksOnTheBeach&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SticksOnTheBeach&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SticksOnTheBeach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
