@@ -1,5 +1,6 @@
-![Header](./github-header-banner.png)
 # 👋 Bienvenue
+
+![Header](./github-header-banner.png)
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=F7880E&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+Profil+!;Welcome+to+my+profil+!" alt="Typing SVG" /></a>
