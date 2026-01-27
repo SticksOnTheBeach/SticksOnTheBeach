@@ -10,12 +10,13 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 </p>
--->
+
 <h1 align="center">
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=D2730C&center=true&vCenter=true&width=435&lines=My+Name+Is+Ma%C3%ABl" alt="Typing SVG" /></a>
 </h1>
----
 
+---
+-->
 
 # 💫 About Me:
 I have been teaching myself coding and programming for almost five years now. I'm currently studying Machine Learning<br><br>I have learned various programming languages such as **TypeScript, C#, C++, Python, Bash, C,** and many others.<br><br>I am passionate about **programming**, **cybersecurity**, **graphic design** (beginner graphic designer), and photography.<br><br>My goal ? To become a network infrastructure engineer and work in cybersecurity.<br><br> 🌍  I'm based in France at Poitiers, Limoges
