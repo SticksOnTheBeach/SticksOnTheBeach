@@ -6,11 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=F7880E&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+Profil+!;Welcome+to+my+profil+!" alt="Typing SVG" /></a>
 </div>
 
-
+<!--
 <p align="center">
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 </p>
-
+-->
 <h1 align="center">
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=D2730C&center=true&vCenter=true&width=435&lines=My+Name+Is+Ma%C3%ABl" alt="Typing SVG" /></a>
 </h1>
