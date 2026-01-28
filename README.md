@@ -26,9 +26,9 @@ I have explored various programming languages such as **TypeScript, C#, C++, Pyt
 ### 🔭 Current Projects
 
 * 🚀 **AI-Agent for Programming:** I am working on [an autonomous AI Agent](https://ai-agent-8us3.onrender.com/).
-    * *Status:* In progress (~60%).
-    * *Stack:* Powered by multiple LLMs (Claude 3.5, Gemini Pro, GPT-4o).
-    * *Goal:* Creating a giant AI agent capable of self-improvement and code optimization.
+ I'm currently working on [two AI-Agent, Expert in Programmation](https://ai-agent-8us3.onrender.com/)
+The other AI I made is currently in progress ( **60%**), it's an AI Agent powered by 4 LLM's ( Claude 4, Gemini 2.5 PRO, Chat-GPT5 and Replit Agent ) and i will integreted some other LLM's like
+Mistral and if I have the money DeepSeek. It will be an Giant AI who can also improving himself, and improving his code.
 
 * 🧠 **Learning Path:** Currently focusing on **C++, Rust, Advanced AI concepts**, and **Network Engineering (TCP/IP, Pentesting)**.
 
