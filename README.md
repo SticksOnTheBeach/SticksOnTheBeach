@@ -1,63 +1,114 @@
 ![Header](./github-header-banner.png)
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile+!" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Sticks;Fullstack+Dev+%2F+Cyber+Enthusiast;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mael.r.l.l)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sticks.exe)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retault.mael06@gmail.com)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sticksonthebeach)
+  [![Visits](https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in)
+
 </div>
-
-# 💫 About Me
-
-I have been teaching myself coding and programming for almost five years now. Currently, I am deepening my knowledge in **Machine Learning**.
-
-I have explored various programming languages such as **TypeScript, C#, C++, Python, Bash, and C**.
-
-🚀 **My Passions:**
-* **Programming & Automation**
-* **Cybersecurity & Pentesting**
-* **Graphic Design** (Enthusiast) & Photography
-
-🎯 **My Goal:** To become a Network Infrastructure Engineer and specialize in Cybersecurity.
-
-🌍 **Location:** Based in France (Poitiers / Limoges).
 
 ---
 
+## 🧠 About Me
 
-# 💻 Tech Stack
+```txt
+Location  →  France (Poitiers / Limoges)
+Focus     →  Network Engineering · Cybersecurity · Machine Learning
+Journey   →  Self-taught developer — 5 years and counting
+Goal      →  Network Infrastructure Engineer & Cybersecurity Specialist
+```
 
-### 🛠 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+I've been teaching myself to code for almost **5 years**, diving deep into systems programming, web development, AI, and network security. Always building, always learning.
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Qwik](https://img.shields.io/badge/qwik-%23AC7EF4.svg?style=for-the-badge&logo=qwik&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Passions:** Programming & Automation · Cybersecurity & Pentesting · Graphic Design & Photography
 
-### 🗄️ Databases & Hosting
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Qwik](https://img.shields.io/badge/Qwik-%23AC7EF4.svg?style=for-the-badge&logo=qwik&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🚀 Current Projects
+
+### 🤖 AI Agent — Autonomous Programming Assistant
+> **Status:** Live · [Try it here →](https://ai-agent-8us3.onrender.com/)
+
+An autonomous AI agent designed to assist with programming tasks. Deployed and running.
+
+---
+
+### 🧬 Multi-LLM AI Agent *(in progress — 60%)*
+> **Status:** 🔨 Under construction
+
+A next-generation AI powered by a **council of 4 LLMs working in sync:**
+
+| Model | Provider |
+|---|---|
+| Claude 4 | Anthropic |
+| Gemini 2.5 Pro | Google |
+| GPT-5 | OpenAI |
+| Replit Agent | Replit |
+
+Planned additions: **Mistral**, and potentially **DeepSeek**.
+
+The end goal: a self-improving AI that can refactor and enhance its own codebase autonomously.
+
+---
+
+## 📚 Currently Learning
+
+```
+C++          ████████░░  80%
+Rust         █████░░░░░  50%
+Advanced AI  ██████░░░░  60%
+TCP/IP       ███████░░░  70%
+Pentesting   ██████░░░░  60%
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SticksOnTheBeach&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SticksOnTheBeach&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
-### 🔭 Current Projects
-
-* 🚀 **AI-Agent for Programming:** I am working on [an autonomous AI Agent](https://ai-agent-8us3.onrender.com/).
- I'm currently working on [two AI-Agent, Expert in Programmation](https://ai-agent-8us3.onrender.com/)
-The other AI I made is currently in progress ( **60%**), it's an AI Agent powered by 4 LLM's ( Claude 4, Gemini 2.5 PRO, Chat-GPT5 and Replit Agent ) and i will integreted some other LLM's like
-Mistral and if I have the money DeepSeek. It will be an Giant AI who can also improving itself, and improving his code.
-
-* 🧠 **Learning Path:** Currently focusing on **C++, Rust, Advanced AI concepts**, and **Network Engineering (TCP/IP, Pentesting)**.
-
----
-
-# 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mael.r.l.l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retault.mael06@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sticks.exe)
-
-[![](https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in)
-
-## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sticksonthebeach)
-
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE3M2FtZzU2cmEwMjczZWllNnlzaTdwYmgzMHB6bnZ2N3hlM3Y2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtDRXohjexcyCDlL6Z/giphy.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE3M2FtZzU2cmEwMjczZWllNnlzaTdwYmgzMHB6bnZ2N3hlM3Y2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtDRXohjexcyCDlL6Z/giphy.gif" width="100%" />
+</div>
