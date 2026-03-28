@@ -12,7 +12,7 @@
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sticks.exe)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retault.mael06@gmail.com)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sticksonthebeach)
-  [![Visits](https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in)
+  [![Visits]([https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
 
 </div>
 
