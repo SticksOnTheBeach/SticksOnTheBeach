@@ -12,7 +12,7 @@
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sticks.exe)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retault.mael06@gmail.com)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sticksonthebeach)
-  [![Visits]([https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+  [![Visits]([https://visitcount.itsvg.in/api?id=SticksOnTheBeach&icon=1&color=1)](https://visitcount.itsvg.in])
 
 </div>
 
@@ -43,7 +43,7 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Java](https://img.shields.io/open-vsx/dt/:namespace/:extension)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 
