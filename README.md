@@ -92,6 +92,7 @@ The end goal: a self-improving AI that can refactor and enhance its own codebase
 ## 📚 Currently Learning
 
 ```
+Java         ███████░░░  70%
 C++          ████████░░  80%
 Rust         █████░░░░░  50%
 Advanced AI  ██████░░░░  60%
