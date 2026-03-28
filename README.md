@@ -43,6 +43,7 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Java](https://img.shields.io/open-vsx/dt/:namespace/:extension)
 
 ### Frameworks & Libraries
 
