@@ -62,33 +62,6 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 
 ---
 
-## 🚀 Current Projects
-
-### 🤖 AI Agent — Autonomous Programming Assistant
-> **Status:** Live · [Try it here →](https://ai-agent-8us3.onrender.com/)
-
-An autonomous AI agent designed to assist with programming tasks. Deployed and running.
-
----
-
-### 🧬 Multi-LLM AI Agent *(in progress — 60%)*
-> **Status:** 🔨 Under construction
-
-A next-generation AI powered by a **council of 4 LLMs working in sync:**
-
-| Model | Provider |
-|---|---|
-| Claude 4 | Anthropic |
-| Gemini 2.5 Pro | Google |
-| GPT-5 | OpenAI |
-| Replit Agent | Replit |
-
-Planned additions: **Mistral**, and potentially **DeepSeek**.
-
-The end goal: a self-improving AI that can refactor and enhance its own codebase autonomously.
-
----
-
 ## 📚 Currently Learning
 
 ```
