@@ -27,7 +27,7 @@ Journey   →  Self-taught developer — 5 years and counting
 Goal      →  Network Infrastructure Engineer & Cybersecurity Specialist
 ```
 
-I've been teaching myself to code for almost **5 years**, diving deep into systems programming, web development, AI, and network security. Always building, always learning.
+I've been teaching myself to code for almost **5 years**, diving deep into systems programming, web development, AI, and network security. **Always building, always learning.**
 
 **Passions:** Programming & Automation · Cybersecurity & Pentesting · Graphic Design & Photography
 
