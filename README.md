@@ -46,7 +46,7 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+// ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Qwik](https://img.shields.io/badge/Qwik-%23AC7EF4.svg?style=for-the-badge&logo=qwik&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
