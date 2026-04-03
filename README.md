@@ -67,7 +67,7 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 ```
 Java         ███████░░░  70%
 C++          ████████░░  80%
-Rust         █████░░░░░  50%
+Rust         █░░░░░░░░░  10%
 Advanced AI  ██████░░░░  60%
 TCP/IP       ███████░░░  70%
 Pentesting   ██████░░░░  60%
