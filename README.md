@@ -65,9 +65,9 @@ I've been teaching myself to code for almost **5 years**, diving deep into syste
 ## 📚 Currently Learning
 
 ```
-Java         ███████░░░  70%
-C++          ████████░░  80%
-Rust         █░░░░░░░░░  10%
+Java/JavaFX  ███████░░░  70%
+C++          ██████░░░░  60%
+Rust         █░░░░░░░░░  3%
 Advanced AI  ██████░░░░  60%
 TCP/IP       ███████░░░  70%
 Pentesting   ██████░░░░  60%
