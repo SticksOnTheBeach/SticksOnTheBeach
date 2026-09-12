@@ -8,26 +8,12 @@
 
   <br/>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mael.r.l.l)
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sticks.exe)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retault.mael06@gmail.com)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sticksonthebeach)
  
 
 </div>
 
----
 
-## 🧠 About Me
-
-```txt
-Location  →  France (Poitiers / Limoges)
-Focus     →  Network Engineering · Cybersecurity · Machine Learning
-Journey   →  Self-taught developer — 5 years and counting
-Goal      →  Network Infrastructure Engineer & Cybersecurity Specialist
-```
-
-I've been teaching myself to code for almost **5 years**, diving deep into systems programming, web development, AI, and network security. **Always building, always learning.**
 
 **Passions:** Programming & Automation · Cybersecurity & Pentesting · Graphic Design & Photography
 
