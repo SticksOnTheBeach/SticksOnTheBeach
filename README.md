@@ -2,7 +2,7 @@
 
 
   <div align="center">
-    <img src="/favicon2.jpg" alt="Bannière GitHub" width="100%">
+    <img src="/favicon.webp" alt="Bannière GitHub" width="100%">
   </div>
   Hi !
 
