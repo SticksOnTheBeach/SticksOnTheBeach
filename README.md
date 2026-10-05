@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="chemin/vers/ton/image.png" alt="Bannière GitHub" width="100%">
+</div>
 
+---
 
 <div align="center">
 
@@ -47,26 +51,3 @@
 ---
 
 ## 📚 Currently Learning
-
-```
-Java/JavaFX  ███████░░░  70%
-C++          ██████░░░░  60%
-Rust         █░░░░░░░░░  10%
-Advanced AI  ██████░░░░  60%
-TCP/IP       ███████░░░  70%
-Pentesting   ██████░░░░  60%
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SticksOnTheBeach&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE3M2FtZzU2cmEwMjczZWllNnlzaTdwYmgzMHB6bnZ2N3hlM3Y2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtDRXohjexcyCDlL6Z/giphy.gif" width="100%" />
-</div>
