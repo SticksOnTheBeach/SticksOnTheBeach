@@ -1,7 +1,9 @@
 <div align="center">
 
 
-
+  <div align="center">
+    <img src="/favicon2.jpg" alt="Bannière GitHub" width="100%">
+  </div>
   Hi !
 
 
