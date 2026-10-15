@@ -50,7 +50,7 @@
 
 
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)![Qwik](https://img.shields.io/badge/Qwik-%23AC7EF4.svg?style=for-the-badge&logo=qwik&logoColor=white)![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)![Qwik](https://img.shields.io/badge/Qwik-%23AC7EF4.svg?style=for-the-badge&logo=qwik&logoColor=white)![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=for-the-badge=vite&logoColor=white)
 
 
 
